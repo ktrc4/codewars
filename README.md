@@ -3,7 +3,7 @@
 These are solutions to codewars practice, 
 
 P
-R
+R - 
 E - Example
 P - Pseudo Code
 
