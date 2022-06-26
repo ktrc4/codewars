@@ -2,8 +2,8 @@
 
 These are solutions to codewars practice, 
 
-P - P
-R - R
+P - Preparation
+R - Resolution
 E - Example
 P - Pseudo Code 
 
