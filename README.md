@@ -12,5 +12,3 @@ P - Pseudo Code
 
 Kathleen RO
   
-C
-A
