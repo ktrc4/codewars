@@ -4,7 +4,7 @@ These are solutions to codewars practice,
 
 P - Preparation
 
-R - Resolution
+R - Resolution 
 
 E - Example
 
