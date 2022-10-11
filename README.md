@@ -6,7 +6,7 @@ P - Preparation
 
 R - Resolution 
 
-E - Exampl
+E - Example
 
 P - Pseudo Code 
 
