@@ -1,5 +1,5 @@
 #codewars kat
-
+ 
 These are solutions to codewars practice, 
 
 P - Preparation
