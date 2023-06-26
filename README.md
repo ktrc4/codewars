@@ -1,7 +1,7 @@
 #codewars kat 
  
 These are solutions to codewars practice, 
-
+b
 P - Preparation
 
 R - Resolution 
